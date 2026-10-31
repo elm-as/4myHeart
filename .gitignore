@@ -1,0 +1,33 @@
+# Binaires compiles
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Fichiers d'enregistrement video et captures
+*.mp4
+*.mov
+*.avi
+*.webm
+
+# OS et editeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
